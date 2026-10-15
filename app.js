@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <p style="color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 1.5rem;">
             Gracias <strong>${nombre}</strong>. Hemos enviado el Brochure Oficial de EPHIS a <strong>${email}</strong> y un asesor de admisiones te contactará vía WhatsApp a la brevedad para coordinar tu entrevista.
           </p>
-          <a href="https://www.ephislatam.com/site/wp-content/uploads/2025/07/EPHIS_20-Brochure_Programa.pdf" target="_blank" rel="noopener" class="btn btn-gold">
+          <a href="assets/brochures/EPHIS-Brochure-Certificacion-9M.pdf" target="_blank" rel="noopener" class="btn btn-gold">
             Descargar PDF Directamente
           </a>
         </div>
